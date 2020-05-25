@@ -1,4 +1,4 @@
-# SevTech: Ages [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
+# SevTech: Ages modified for STC
 
 ## Info
 This modpack was made by [Darkosto](https://www.twitch.tv/darkosto) for [Sevadus](https://www.twitch.tv/sevadus) on Twitch And Modified to Run on Shape The Cube's server.  
